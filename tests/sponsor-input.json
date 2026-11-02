@@ -1,0 +1,4946 @@
+{
+  "arithmetic": [
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0x1",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0x1",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0x1",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0x1",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0x1",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0x1",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0x1",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0x1",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0x1",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x1",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x1",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x1",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0x1",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0x1",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0x1",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0x1",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0x1",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0x1",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0x1",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0x1",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0x1",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x1",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x1",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x1",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x1",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0x2",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0x2",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0x2",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0x2",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0x2",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0x2",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0x2",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0x2",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0x2",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x2",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x2",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x2",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0x2",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0x2",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0x2",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0x2",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0x2",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0x2",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0x2",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0x2",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0x2",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x2",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x2",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x2",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x2",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0x5555555555555555555555555555555555555555555555555555555555555555",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x1"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+    },
+    {
+      "fee": 0,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 0,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 1024,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 0,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 1,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "fee": 18446744073709551615,
+      "reward": 18446744073709551615,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    }
+  ],
+  "drafts": [
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "plain",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "pay",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 7,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 0,
+      "name": "fee-zero",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 9223372036854775808,
+      "name": "fee-overflow",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "pay-overflow",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 18446744073709551615,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 9223372036854775807,
+      "name": "pay-int-overflow",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 1,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "wrong-chain",
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "no-signers",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client",
+          "other"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "two-signers",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "sponsor"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "sponsor-signer",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [
+          {
+            "delta": -1,
+            "owner": "sponsor"
+          }
+        ],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "named-account",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [
+          {
+            "key": "prefixsponsorsuffix",
+            "newValue": "v",
+            "oldValue": null
+          }
+        ],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "mentioned-key",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [
+          {
+            "key": "k",
+            "newValue": null,
+            "oldValue": "sponsor"
+          }
+        ],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "mentioned-old",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [
+          {
+            "key": "k",
+            "newValue": "sponsor",
+            "oldValue": null
+          }
+        ],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "mentioned-new",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [
+          {
+            "delta": 1,
+            "owner": "client"
+          }
+        ],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "creates-value",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [
+          {
+            "delta": -2,
+            "owner": "client"
+          },
+          {
+            "delta": 2,
+            "owner": "other"
+          }
+        ],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "balanced",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 18446744073709551615,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "nonce-boundary",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [
+          {
+            "amountDemanded": 1,
+            "amountDeposited": 1,
+            "demander": "sponsor",
+            "nonce": 0
+          }
+        ],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "named-depositActions-",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [
+          {
+            "amountDemanded": 1,
+            "demander": "client",
+            "directory": "child",
+            "nonce": 0,
+            "withdrawer": "sponsor"
+          }
+        ],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "named-receiptActions-sponsor",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [
+          {
+            "amountDemanded": 1,
+            "demander": "sponsor",
+            "directory": "child",
+            "nonce": 0,
+            "withdrawer": "client"
+          }
+        ],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "named-receiptActions-client",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": [
+          {
+            "amountDemanded": 1,
+            "amountWithdrawn": 1,
+            "demander": "client",
+            "nonce": 0,
+            "withdrawer": "sponsor"
+          }
+        ]
+      },
+      "fee": 1,
+      "name": "named-withdrawalActions-sponsor",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": [
+          {
+            "amountDemanded": 1,
+            "amountWithdrawn": 1,
+            "demander": "sponsor",
+            "nonce": 0,
+            "withdrawer": "client"
+          }
+        ]
+      },
+      "fee": 1,
+      "name": "named-withdrawalActions-client",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    },
+    {
+      "body": {
+        "accountActions": [
+          {
+            "delta": -9223372036854775808,
+            "owner": "client"
+          }
+        ],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client"
+        ],
+        "withdrawalActions": []
+      },
+      "fee": 1,
+      "name": "surplus-boundary",
+      "path": [
+        "Nexus"
+      ],
+      "pay": 0,
+      "sponsor": "sponsor"
+    }
+  ],
+  "paymentTrace": [
+    {
+      "cid": "tx",
+      "op": "claim"
+    },
+    {
+      "cid": "tx",
+      "op": "claim"
+    },
+    {
+      "cid": "tx",
+      "credit": false,
+      "op": "release"
+    },
+    {
+      "cid": "tx",
+      "op": "claim"
+    },
+    {
+      "cid": "tx",
+      "credit": true,
+      "op": "release"
+    },
+    {
+      "cid": "tx",
+      "op": "claim"
+    },
+    {
+      "op": "credited"
+    },
+    {
+      "cid": "pending",
+      "op": "claim"
+    },
+    {
+      "op": "restart"
+    },
+    {
+      "cid": "tx",
+      "op": "claim"
+    },
+    {
+      "cid": "pending",
+      "op": "claim"
+    },
+    {
+      "cid": "other",
+      "credit": true,
+      "op": "release"
+    },
+    {
+      "op": "credited"
+    }
+  ],
+  "payments": [
+    {
+      "chain": "Nexus",
+      "peer": null,
+      "signature": "signature",
+      "signer": "alice",
+      "store": "r",
+      "txCID": "tx"
+    },
+    {
+      "chain": "Nexus",
+      "peer": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "signature": "signature",
+      "signer": "alice",
+      "store": null,
+      "txCID": "tx"
+    },
+    {
+      "chain": "Nexus",
+      "peer": null,
+      "signature": "signature",
+      "signer": "alice",
+      "store": null,
+      "txCID": "tx"
+    },
+    {
+      "chain": "Nexus",
+      "peer": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "signature": "signature",
+      "signer": "alice",
+      "store": "r",
+      "txCID": "tx"
+    },
+    {
+      "chain": "Nexus/child",
+      "peer": null,
+      "signature": "signature",
+      "signer": "alice",
+      "store": "r",
+      "txCID": "tx"
+    },
+    {
+      "chain": "Nexus/child",
+      "peer": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "signature": "signature",
+      "signer": "alice",
+      "store": null,
+      "txCID": "tx"
+    },
+    {
+      "chain": "Nexus/child",
+      "peer": null,
+      "signature": "signature",
+      "signer": "alice",
+      "store": null,
+      "txCID": "tx"
+    },
+    {
+      "chain": "Nexus/child",
+      "peer": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "signature": "signature",
+      "signer": "alice",
+      "store": "r",
+      "txCID": "tx"
+    },
+    {
+      "chain": "/Nexus//child/",
+      "peer": null,
+      "signature": "signature",
+      "signer": "alice",
+      "store": "r",
+      "txCID": "tx"
+    },
+    {
+      "chain": "/Nexus//child/",
+      "peer": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "signature": "signature",
+      "signer": "alice",
+      "store": null,
+      "txCID": "tx"
+    },
+    {
+      "chain": "/Nexus//child/",
+      "peer": null,
+      "signature": "signature",
+      "signer": "alice",
+      "store": null,
+      "txCID": "tx"
+    },
+    {
+      "chain": "/Nexus//child/",
+      "peer": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "signature": "signature",
+      "signer": "alice",
+      "store": "r",
+      "txCID": "tx"
+    }
+  ],
+  "peers": [
+    {
+      "peer": null,
+      "store": null
+    },
+    {
+      "peer": null,
+      "store": "root"
+    },
+    {
+      "peer": "",
+      "store": null
+    },
+    {
+      "peer": "",
+      "store": "root"
+    },
+    {
+      "peer": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "store": null
+    },
+    {
+      "peer": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "store": "root"
+    },
+    {
+      "peer": "0000000000000000000000000000000000000000000000000000000000000000",
+      "store": null
+    },
+    {
+      "peer": "0000000000000000000000000000000000000000000000000000000000000000",
+      "store": "root"
+    },
+    {
+      "peer": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "store": null
+    },
+    {
+      "peer": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "store": "root"
+    },
+    {
+      "peer": "gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
+      "store": null
+    },
+    {
+      "peer": "gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
+      "store": "root"
+    },
+    {
+      "peer": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "store": null
+    },
+    {
+      "peer": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "store": "root"
+    },
+    {
+      "peer": "\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9",
+      "store": null
+    },
+    {
+      "peer": "\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9",
+      "store": "root"
+    }
+  ],
+  "serving": [
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": -1,
+      "value": "0x0"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": -1,
+      "value": "0x0"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": -1,
+      "value": "0x1"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": -1,
+      "value": "0x1"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": -1,
+      "value": "0xffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": -1,
+      "value": "0xffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": -1,
+      "value": "0x10000000000000000"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": -1,
+      "value": "0x10000000000000000"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": -1,
+      "value": "0x80000000000000000000000000000000"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": -1,
+      "value": "0x80000000000000000000000000000000"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": -1,
+      "value": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": -1,
+      "value": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 0,
+      "value": "0x0"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 0,
+      "value": "0x0"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 0,
+      "value": "0x1"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 0,
+      "value": "0x1"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 0,
+      "value": "0xffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 0,
+      "value": "0xffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 0,
+      "value": "0x10000000000000000"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 0,
+      "value": "0x10000000000000000"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 0,
+      "value": "0x80000000000000000000000000000000"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 0,
+      "value": "0x80000000000000000000000000000000"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 0,
+      "value": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 0,
+      "value": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 1,
+      "value": "0x0"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 1,
+      "value": "0x0"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 1,
+      "value": "0x1"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 1,
+      "value": "0x1"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 1,
+      "value": "0xffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 1,
+      "value": "0xffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 1,
+      "value": "0x10000000000000000"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 1,
+      "value": "0x10000000000000000"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 1,
+      "value": "0x80000000000000000000000000000000"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 1,
+      "value": "0x80000000000000000000000000000000"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 1,
+      "value": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 1,
+      "value": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 3,
+      "value": "0x0"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 3,
+      "value": "0x0"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 3,
+      "value": "0x1"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 3,
+      "value": "0x1"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 3,
+      "value": "0xffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 3,
+      "value": "0xffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 3,
+      "value": "0x10000000000000000"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 3,
+      "value": "0x10000000000000000"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 3,
+      "value": "0x80000000000000000000000000000000"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 3,
+      "value": "0x80000000000000000000000000000000"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 3,
+      "value": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 3,
+      "value": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 9223372036854775807,
+      "value": "0x0"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 9223372036854775807,
+      "value": "0x0"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 9223372036854775807,
+      "value": "0x1"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 9223372036854775807,
+      "value": "0x1"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 9223372036854775807,
+      "value": "0xffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 9223372036854775807,
+      "value": "0xffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 9223372036854775807,
+      "value": "0x10000000000000000"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 9223372036854775807,
+      "value": "0x10000000000000000"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 9223372036854775807,
+      "value": "0x80000000000000000000000000000000"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 9223372036854775807,
+      "value": "0x80000000000000000000000000000000"
+    },
+    {
+      "path": [
+        "Nexus"
+      ],
+      "rate": 9223372036854775807,
+      "value": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "path": [
+        "Nexus",
+        "child"
+      ],
+      "rate": 9223372036854775807,
+      "value": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    }
+  ],
+  "storage": [
+    {
+      "actions": [
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "r",
+          "volumes": [
+            {
+              "bytes": 10,
+              "cid": "r"
+            }
+          ]
+        },
+        {
+          "op": "status"
+        },
+        {
+          "op": "take"
+        },
+        {
+          "op": "credit",
+          "value": "0x10000000000000000"
+        },
+        {
+          "op": "status"
+        },
+        {
+          "op": "credit",
+          "value": "0x30000000000000000"
+        },
+        {
+          "op": "take"
+        },
+        {
+          "op": "take"
+        },
+        {
+          "op": "finish",
+          "pinned": false
+        },
+        {
+          "op": "take"
+        },
+        {
+          "op": "finish",
+          "pinned": true
+        },
+        {
+          "op": "status"
+        },
+        {
+          "op": "restart"
+        },
+        {
+          "op": "status"
+        },
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "r",
+          "volumes": [
+            {
+              "bytes": 10,
+              "cid": "r"
+            }
+          ]
+        }
+      ],
+      "budget": 100,
+      "capacity": 100,
+      "name": "lifecycle"
+    },
+    {
+      "actions": [
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "r",
+          "volumes": [
+            {
+              "bytes": 10,
+              "cid": "r"
+            }
+          ]
+        },
+        {
+          "now": 9,
+          "op": "check"
+        },
+        {
+          "now": 10,
+          "op": "check"
+        },
+        {
+          "now": 10,
+          "op": "upload",
+          "root": "other",
+          "volumes": [
+            {
+              "bytes": 10,
+              "cid": "other"
+            }
+          ]
+        },
+        {
+          "op": "status"
+        },
+        {
+          "now": 11,
+          "op": "upload",
+          "root": "r",
+          "volumes": [
+            {
+              "bytes": 10,
+              "cid": "r"
+            }
+          ]
+        },
+        {
+          "now": 11,
+          "op": "credit",
+          "value": "0x40000000000000000"
+        },
+        {
+          "now": 30,
+          "op": "upload",
+          "root": "later",
+          "volumes": [
+            {
+              "bytes": 10,
+              "cid": "later"
+            }
+          ]
+        },
+        {
+          "op": "status"
+        },
+        {
+          "now": 30,
+          "op": "check"
+        },
+        {
+          "op": "take"
+        }
+      ],
+      "budget": 100,
+      "capacity": 100,
+      "name": "expiry"
+    },
+    {
+      "actions": [
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "r",
+          "volumes": [
+            {
+              "bytes": 60,
+              "cid": "r"
+            }
+          ]
+        },
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "other",
+          "volumes": [
+            {
+              "bytes": 41,
+              "cid": "other"
+            }
+          ]
+        },
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "other",
+          "volumes": [
+            {
+              "bytes": 40,
+              "cid": "other"
+            }
+          ]
+        },
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "third",
+          "volumes": [
+            {
+              "bytes": 1,
+              "cid": "third"
+            }
+          ]
+        }
+      ],
+      "budget": 100,
+      "capacity": 100,
+      "name": "budget"
+    },
+    {
+      "actions": [
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "r",
+          "volumes": [
+            {
+              "bytes": 30,
+              "cid": "r"
+            }
+          ]
+        },
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "other",
+          "volumes": [
+            {
+              "bytes": 21,
+              "cid": "other"
+            }
+          ]
+        },
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "other",
+          "volumes": [
+            {
+              "bytes": 20,
+              "cid": "other"
+            }
+          ]
+        }
+      ],
+      "budget": 100,
+      "capacity": 50,
+      "name": "pending-cap"
+    },
+    {
+      "actions": [
+        {
+          "op": "upload",
+          "root": "r",
+          "volumes": []
+        },
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "r",
+          "volumes": [
+            {
+              "cid": "r",
+              "entries": {
+                "other": "AA=="
+              }
+            }
+          ]
+        },
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "r",
+          "volumes": [
+            {
+              "cid": "r",
+              "entries": {
+                "r": "!"
+              }
+            }
+          ]
+        },
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "r",
+          "volumes": [
+            {
+              "bytes": 0,
+              "cid": "r"
+            }
+          ]
+        },
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "r",
+          "volumes": [
+            {
+              "bytes": -1,
+              "cid": "r"
+            }
+          ]
+        },
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "r",
+          "volumes": [
+            {
+              "bytes": 1049601,
+              "cid": "r"
+            }
+          ]
+        },
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "r",
+          "volumes": [
+            {
+              "cid": "r",
+              "entries": {
+                "r": ""
+              }
+            }
+          ]
+        },
+        {
+          "op": "status"
+        },
+        {
+          "op": "take"
+        }
+      ],
+      "budget": 100,
+      "capacity": 100,
+      "name": "invalid"
+    },
+    {
+      "actions": [
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "r",
+          "volumes": [
+            {
+              "cid": "r",
+              "entries": {
+                "r": "YWJj",
+                "x": "ZA=="
+              }
+            }
+          ]
+        },
+        {
+          "op": "credit",
+          "value": "0x8000000000000000"
+        },
+        {
+          "op": "status"
+        },
+        {
+          "op": "credit",
+          "path": [
+            "Nexus",
+            "child"
+          ],
+          "value": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+        },
+        {
+          "op": "status"
+        },
+        {
+          "op": "check",
+          "path": [
+            "Nexus",
+            "zero"
+          ]
+        },
+        {
+          "op": "check",
+          "path": [
+            "missing"
+          ],
+          "root": "missing"
+        }
+      ],
+      "budget": 100,
+      "capacity": 100,
+      "name": "rates"
+    },
+    {
+      "actions": [
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "r",
+          "volumes": [
+            {
+              "bytes": 10,
+              "cid": "r"
+            }
+          ]
+        },
+        {
+          "op": "credit",
+          "value": "0x40000000000000000"
+        },
+        {
+          "op": "restart"
+        },
+        {
+          "op": "status"
+        },
+        {
+          "now": 0,
+          "op": "upload",
+          "root": "r",
+          "volumes": [
+            {
+              "bytes": 10,
+              "cid": "r"
+            }
+          ]
+        }
+      ],
+      "budget": 100,
+      "capacity": 100,
+      "name": "restart-pending"
+    }
+  ],
+  "traces": [
+    {
+      "actions": [
+        {
+          "expiresAt": 100,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "w"
+        },
+        {
+          "client": "alice",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 0,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 1,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 1,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "client": "bob",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 1,
+          "now": 0,
+          "op": "block"
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 1,
+          "now": 0,
+          "op": "block"
+        },
+        {
+          "client": "alice",
+          "op": "balance",
+          "path": [
+            "Nexus"
+          ]
+        }
+      ],
+      "creditLifetime": 100,
+      "maxAssignments": 100,
+      "name": "soldout",
+      "rangeSize": 8,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "actions": [
+        {
+          "client": "alice",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 0,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "expiresAt": 100,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "w"
+        },
+        {
+          "client": "alice",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 9,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "hash": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "id": "w.1",
+          "nonce": 0,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 0,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 999,
+          "now": 0,
+          "op": "block"
+        },
+        {
+          "id": "missing",
+          "op": "assignment"
+        }
+      ],
+      "creditLifetime": 100,
+      "maxAssignments": 100,
+      "name": "order",
+      "rangeSize": 8,
+      "shareTarget": "0x7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "actions": [
+        {
+          "expiresAt": 100,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "w"
+        },
+        {
+          "client": "alice",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 0,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "balance": 10,
+          "client": "alice",
+          "fee": 9,
+          "holdUntil": 50,
+          "now": 0,
+          "op": "commit",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "balance": 3,
+          "client": "alice",
+          "fee": 4,
+          "holdUntil": 50,
+          "now": 0,
+          "op": "commit",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "balance": 10,
+          "client": "alice",
+          "fee": 4,
+          "holdUntil": 50,
+          "now": 0,
+          "op": "commit",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "client": "alice",
+          "op": "balance",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "balance": 4,
+          "client": "alice",
+          "fee": 4,
+          "holdUntil": 50,
+          "now": 0,
+          "op": "commit",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "balance": 4,
+          "client": "alice",
+          "fee": 4,
+          "holdUntil": 50,
+          "now": 50,
+          "op": "commit",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "client": "alice",
+          "op": "balance",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "balance": 10,
+          "client": "alice",
+          "fee": 0,
+          "holdUntil": 50,
+          "now": 0,
+          "op": "commit",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "expiresAt": 200,
+          "now": 101,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 2,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "later"
+        },
+        {
+          "client": "alice",
+          "op": "balance",
+          "path": [
+            "Nexus"
+          ]
+        }
+      ],
+      "creditLifetime": 100,
+      "maxAssignments": 100,
+      "name": "commits",
+      "rangeSize": 8,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "actions": [
+        {
+          "expiresAt": 100,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "w"
+        },
+        {
+          "client": "alice",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "client": "bob",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "client": "carol",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "expiresAt": 100,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 2,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "new"
+        },
+        {
+          "client": "dave",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        }
+      ],
+      "creditLifetime": 100,
+      "maxAssignments": 100,
+      "name": "ranges",
+      "rangeSize": 9223372036854775808,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "actions": [
+        {
+          "expiresAt": 100,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "w"
+        },
+        {
+          "client": "alice",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "client": "bob",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "expiresAt": 200,
+          "now": 100,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "new"
+        },
+        {
+          "client": "bob",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "id": "w.1",
+          "op": "assignment"
+        }
+      ],
+      "creditLifetime": 100,
+      "maxAssignments": 1,
+      "name": "capacity",
+      "rangeSize": 8,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "actions": [
+        {
+          "expiresAt": 20,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 10,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "high"
+        },
+        {
+          "client": "alice",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "expiresAt": 100,
+          "now": 1,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 9,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "low"
+        },
+        {
+          "client": "bob",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "hash": "0x0",
+          "id": "high.1",
+          "nonce": 0,
+          "now": 1,
+          "op": "credit"
+        },
+        {
+          "expiresAt": 100,
+          "now": 2,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus",
+                "child"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "omitted"
+        },
+        {
+          "client": "bob",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "hash": "0x0",
+          "id": "high.1",
+          "nonce": 0,
+          "now": 20,
+          "op": "credit"
+        },
+        {
+          "expiresAt": 100,
+          "now": 20,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 9,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "low"
+        },
+        {
+          "client": "bob",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "hash": "0x0",
+          "id": "high.1",
+          "nonce": 0,
+          "now": 20,
+          "op": "credit"
+        }
+      ],
+      "creditLifetime": 100,
+      "maxAssignments": 100,
+      "name": "reorg",
+      "rangeSize": 8,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "actions": [
+        {
+          "expiresAt": 100,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "w"
+        },
+        {
+          "client": "alice",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 0,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "expiresAt": 100,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "other"
+        },
+        {
+          "client": "bob",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "expiresAt": 200,
+          "now": 100,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 5,
+              "path": [
+                "Nexus",
+                "child"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "absent"
+        },
+        {
+          "expiresAt": 200,
+          "now": 100,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "new"
+        },
+        {
+          "client": "bob",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "expiresAt": 200,
+          "now": 101,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 2,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "higher"
+        },
+        {
+          "client": "bob",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "hash": "0x0",
+          "id": "higher.2",
+          "nonce": 0,
+          "now": 101,
+          "op": "credit"
+        },
+        {
+          "client": "bob",
+          "op": "balance",
+          "path": [
+            "Nexus"
+          ]
+        }
+      ],
+      "creditLifetime": 100,
+      "maxAssignments": 100,
+      "name": "sameheight",
+      "rangeSize": 8,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "actions": [
+        {
+          "expiresAt": 1000,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "w"
+        },
+        {
+          "client": "alice",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 0,
+          "now": 10,
+          "op": "credit"
+        },
+        {
+          "client": "alice",
+          "op": "balance",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "expiresAt": 1000,
+          "now": 109,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 2,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "b"
+        },
+        {
+          "client": "alice",
+          "op": "balance",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "expiresAt": 1000,
+          "now": 110,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 3,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "c"
+        },
+        {
+          "client": "alice",
+          "op": "balance",
+          "path": [
+            "Nexus"
+          ]
+        }
+      ],
+      "creditLifetime": 100,
+      "maxAssignments": 100,
+      "name": "credit-expiry",
+      "rangeSize": 8,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "actions": [
+        {
+          "expiresAt": 100,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "w"
+        },
+        {
+          "client": "alice",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ],
+          "store": "root"
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 0,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "client": "alice",
+          "op": "balance",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "expiresAt": 100,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 2,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "b"
+        },
+        {
+          "client": "alice",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ],
+          "peer": "peer"
+        },
+        {
+          "hash": "0x0",
+          "id": "b.2",
+          "nonce": 0,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "client": "alice",
+          "op": "balance",
+          "path": [
+            "Nexus"
+          ]
+        }
+      ],
+      "creditLifetime": 100,
+      "maxAssignments": 100,
+      "name": "external-credit",
+      "rangeSize": 8,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "actions": [
+        {
+          "expiresAt": 10,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "w"
+        },
+        {
+          "client": "alice",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "expiresAt": 100,
+          "now": 5,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "w"
+        },
+        {
+          "client": "bob",
+          "now": 5,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "hash": "0x0",
+          "id": "w.2",
+          "nonce": 8,
+          "now": 11,
+          "op": "credit"
+        },
+        {
+          "hash": "0x0",
+          "id": "w.2",
+          "nonce": 8,
+          "now": 11,
+          "op": "block"
+        },
+        {
+          "expiresAt": 100,
+          "now": 11,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "w"
+        },
+        {
+          "hash": "0x0",
+          "id": "w.2",
+          "nonce": 8,
+          "now": 11,
+          "op": "credit"
+        },
+        {
+          "client": "carol",
+          "now": 11,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        }
+      ],
+      "creditLifetime": 100,
+      "maxAssignments": 100,
+      "name": "repeat-template",
+      "rangeSize": 8,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "actions": [
+        {
+          "expiresAt": 100,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 10,
+              "target": "0x5555555555555555555555555555555555555555555555555555555555555555"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "w"
+        },
+        {
+          "client": "alice",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 0,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 1,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 2,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 3,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 4,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "hash": "0x0",
+          "id": "w.1",
+          "nonce": 4,
+          "now": 0,
+          "op": "credit"
+        },
+        {
+          "client": "alice",
+          "op": "balance",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "fee": 1,
+          "op": "sharesFor",
+          "path": [
+            "Nexus"
+          ]
+        }
+      ],
+      "creditLifetime": 100,
+      "maxAssignments": 100,
+      "name": "partial",
+      "rangeSize": 8,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
+      "actions": [
+        {
+          "expiresAt": 100,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 0,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "w"
+        },
+        {
+          "client": "alice",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "fee": 1,
+          "op": "sharesFor",
+          "path": [
+            "Nexus"
+          ]
+        },
+        {
+          "expiresAt": 100,
+          "now": 0,
+          "op": "install",
+          "prefixHex": "00",
+          "prices": [
+            {
+              "height": 1,
+              "path": [
+                "Nexus"
+              ],
+              "reward": 8,
+              "target": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            }
+          ],
+          "submitTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "workID": "w"
+        },
+        {
+          "client": "alice",
+          "now": 0,
+          "op": "assign",
+          "path": [
+            "Nexus",
+            "child"
+          ]
+        },
+        {
+          "fee": 1,
+          "op": "sharesFor",
+          "path": [
+            "Nexus",
+            "child"
+          ]
+        }
+      ],
+      "creditLifetime": 100,
+      "maxAssignments": 100,
+      "name": "missing-price",
+      "rangeSize": 8,
+      "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    }
+  ]
+}

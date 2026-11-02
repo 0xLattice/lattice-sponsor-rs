@@ -1,0 +1,26 @@
+[package]
+name = "lattice-sponsor"
+version = "0.1.0"
+edition = "2024"
+license-file = "LICENSE"
+publish = false
+[dependencies]
+lattice-primitives = {path = "../lattice-rs/crates/lattice-primitives"}
+lattice-pow = {path = "../lattice-rs/crates/lattice-pow"}
+num-bigint = "0.4"
+serde = {version = "1",features = ["derive"]}
+serde_json = "1"
+thiserror = "2"
+hex = "0.4"
+base64 = "0.22"
+reqwest = {version = "0.12", default-features = false, features = ["rustls-tls", "json"]}
+lattice-cashew = {path = "../cashew-rs"}
+hmac = "0.12"
+sha2 = "0.10"
+rand_core = {version = "0.6", features = ["getrandom"]}
+tokio = {version = "1", features = ["rt-multi-thread", "macros", "net", "io-util", "time", "sync", "signal"]}
+axum = "0.8"
+tower-http = {version="0.6",features=["cors"]}
+clap = {version="4",features=["derive"]}
+[dev-dependencies]
+tempfile = "3"

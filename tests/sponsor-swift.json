@@ -1,0 +1,2802 @@
+{
+  "arithmetic": [
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": null
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x1"
+    },
+    {
+      "shares": "0x10000000000000000",
+      "value": "0x1"
+    },
+    {
+      "shares": "0xffffffffffffffff0000000000000000",
+      "value": "0x1"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x10000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x10000000000000000"
+    },
+    {
+      "shares": "0xffffffffffffffff",
+      "value": "0x10000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x4000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x4000000000000000000"
+    },
+    {
+      "shares": "0x40000000000000",
+      "value": "0x4000000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0xffffffffffffffff0000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0xffffffffffffffff0000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0xffffffffffffffff0000000000000000"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x800000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x800000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x800000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x200000000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x200000000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x200000000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x7fffffffffffffff800000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x7fffffffffffffff800000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x7fffffffffffffff800000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x1000000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x1000000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x1000000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x400000000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x400000000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x400000000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0xffffffffffffffff000000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0xffffffffffffffff000000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0xffffffffffffffff000000000000000000000000000000000000000000000000"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x1"
+    },
+    {
+      "shares": "0x10000000000000000",
+      "value": "0x1"
+    },
+    {
+      "shares": "0xffffffffffffffff0000000000000000",
+      "value": "0x1"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x400"
+    },
+    {
+      "shares": "0x40000000000000",
+      "value": "0x400"
+    },
+    {
+      "shares": "0x3fffffffffffffffc0000000000000",
+      "value": "0x400"
+    },
+    {
+      "shares": "0x0",
+      "value": "0xffffffffffffffff"
+    },
+    {
+      "shares": "0x2",
+      "value": "0xffffffffffffffff"
+    },
+    {
+      "shares": "0x10000000000000000",
+      "value": "0xffffffffffffffff"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x80000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x80000000000000000000000000000000"
+    },
+    {
+      "shares": "0x2",
+      "value": "0x80000000000000000000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x20000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x20000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x20000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x7fffffffffffffff80000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x7fffffffffffffff80000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x7fffffffffffffff80000000000000000000000000000000"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x100000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x100000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x100000000000000000000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x40000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x40000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x40000000000000000000000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0xffffffffffffffff00000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0xffffffffffffffff00000000000000000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0xffffffffffffffff00000000000000000000000000000000"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x1"
+    },
+    {
+      "shares": "0x10000000000000000",
+      "value": "0x1"
+    },
+    {
+      "shares": "0xffffffffffffffff0000000000000000",
+      "value": "0x1"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x10000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x10000000000000000"
+    },
+    {
+      "shares": "0xffffffffffffffff",
+      "value": "0x10000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x4000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x4000000000000000000"
+    },
+    {
+      "shares": "0x40000000000000",
+      "value": "0x4000000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0xffffffffffffffff0000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0xffffffffffffffff0000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0xffffffffffffffff0000000000000000"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x20000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x20000000000000000"
+    },
+    {
+      "shares": "0x8000000000000000",
+      "value": "0x20000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x8000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x8000000000000000000"
+    },
+    {
+      "shares": "0x20000000000000",
+      "value": "0x8000000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x1fffffffffffffffe0000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x1fffffffffffffffe0000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x1fffffffffffffffe0000000000000000"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x8000000000000000"
+    },
+    {
+      "shares": "0x2",
+      "value": "0x8000000000000000"
+    },
+    {
+      "shares": "0x1fffffffffffffffe",
+      "value": "0x8000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x2000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x2000000000000000000"
+    },
+    {
+      "shares": "0x80000000000000",
+      "value": "0x2000000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x7fffffffffffffff8000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x7fffffffffffffff8000000000000000"
+    },
+    {
+      "shares": "0x2",
+      "value": "0x7fffffffffffffff8000000000000000"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": null,
+      "value": "0x0"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x10000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x10000000000000000"
+    },
+    {
+      "shares": "0xffffffffffffffff",
+      "value": "0x10000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0x4000000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0x4000000000000000000"
+    },
+    {
+      "shares": "0x40000000000000",
+      "value": "0x4000000000000000000"
+    },
+    {
+      "shares": "0x0",
+      "value": "0xffffffffffffffff0000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0xffffffffffffffff0000000000000000"
+    },
+    {
+      "shares": "0x1",
+      "value": "0xffffffffffffffff0000000000000000"
+    }
+  ],
+  "drafts": [
+    {
+      "ok": {
+        "accountActions": [
+          {
+            "delta": -1,
+            "owner": "sponsor"
+          }
+        ],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client",
+          "sponsor"
+        ],
+        "withdrawalActions": []
+      }
+    },
+    {
+      "ok": {
+        "accountActions": [
+          {
+            "delta": 7,
+            "owner": "client"
+          },
+          {
+            "delta": -8,
+            "owner": "sponsor"
+          }
+        ],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client",
+          "sponsor"
+        ],
+        "withdrawalActions": []
+      }
+    },
+    {
+      "error": "draft",
+      "message": "fee out of range"
+    },
+    {
+      "error": "draft",
+      "message": "fee out of range"
+    },
+    {
+      "error": "draft",
+      "message": "pay out of range"
+    },
+    {
+      "error": "draft",
+      "message": "pay out of range"
+    },
+    {
+      "error": "draft",
+      "message": "wrong chain"
+    },
+    {
+      "error": "draft",
+      "message": "the draft must have exactly one signer, not the sponsor"
+    },
+    {
+      "error": "draft",
+      "message": "the draft must have exactly one signer, not the sponsor"
+    },
+    {
+      "error": "draft",
+      "message": "the draft must have exactly one signer, not the sponsor"
+    },
+    {
+      "error": "draft",
+      "message": "the draft names the sponsor"
+    },
+    {
+      "error": "draft",
+      "message": "the draft names the sponsor"
+    },
+    {
+      "error": "draft",
+      "message": "the draft names the sponsor"
+    },
+    {
+      "error": "draft",
+      "message": "the draft names the sponsor"
+    },
+    {
+      "error": "draft",
+      "message": "the draft creates value"
+    },
+    {
+      "ok": {
+        "accountActions": [
+          {
+            "delta": -2,
+            "owner": "client"
+          },
+          {
+            "delta": 2,
+            "owner": "other"
+          },
+          {
+            "delta": -1,
+            "owner": "sponsor"
+          }
+        ],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 7,
+        "receiptActions": [],
+        "signers": [
+          "client",
+          "sponsor"
+        ],
+        "withdrawalActions": []
+      }
+    },
+    {
+      "ok": {
+        "accountActions": [
+          {
+            "delta": -1,
+            "owner": "sponsor"
+          }
+        ],
+        "actions": [],
+        "chainPath": [
+          "Nexus"
+        ],
+        "depositActions": [],
+        "nonce": 18446744073709551615,
+        "receiptActions": [],
+        "signers": [
+          "client",
+          "sponsor"
+        ],
+        "withdrawalActions": []
+      }
+    },
+    {
+      "error": "draft",
+      "message": "the draft names the sponsor"
+    },
+    {
+      "error": "draft",
+      "message": "the draft names the sponsor"
+    },
+    {
+      "error": "draft",
+      "message": "the draft names the sponsor"
+    },
+    {
+      "error": "draft",
+      "message": "the draft names the sponsor"
+    },
+    {
+      "error": "draft",
+      "message": "the draft names the sponsor"
+    },
+    {
+      "error": "draft",
+      "message": "the draft creates value"
+    }
+  ],
+  "extras": {
+    "paymentTrace": [
+      {
+        "ok": null
+      },
+      {
+        "error": "alreadyCredited"
+      },
+      null,
+      {
+        "ok": null
+      },
+      null,
+      {
+        "error": "alreadyCredited"
+      },
+      [
+        "tx"
+      ],
+      {
+        "ok": null
+      },
+      null,
+      {
+        "error": "alreadyCredited"
+      },
+      {
+        "ok": null
+      },
+      null,
+      [
+        "other",
+        "tx"
+      ]
+    ],
+    "payments": [
+      {
+        "message": "lattice-sponsor-pay:v1:Nexus:tx:r",
+        "path": [
+          "Nexus"
+        ]
+      },
+      {
+        "message": "lattice-sponsor-pay-serving:v1:Nexus:tx:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "path": [
+          "Nexus"
+        ]
+      },
+      {
+        "message": "lattice-sponsor-pay:v1:Nexus:tx:",
+        "path": [
+          "Nexus"
+        ]
+      },
+      {
+        "message": "lattice-sponsor-pay-serving:v1:Nexus:tx:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "path": [
+          "Nexus"
+        ]
+      },
+      {
+        "message": "lattice-sponsor-pay:v1:Nexus/child:tx:r",
+        "path": [
+          "Nexus",
+          "child"
+        ]
+      },
+      {
+        "message": "lattice-sponsor-pay-serving:v1:Nexus/child:tx:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "path": [
+          "Nexus",
+          "child"
+        ]
+      },
+      {
+        "message": "lattice-sponsor-pay:v1:Nexus/child:tx:",
+        "path": [
+          "Nexus",
+          "child"
+        ]
+      },
+      {
+        "message": "lattice-sponsor-pay-serving:v1:Nexus/child:tx:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "path": [
+          "Nexus",
+          "child"
+        ]
+      },
+      {
+        "message": "lattice-sponsor-pay:v1:/Nexus//child/:tx:r",
+        "path": [
+          "",
+          "Nexus",
+          "",
+          "child",
+          ""
+        ]
+      },
+      {
+        "message": "lattice-sponsor-pay-serving:v1:/Nexus//child/:tx:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "path": [
+          "",
+          "Nexus",
+          "",
+          "child",
+          ""
+        ]
+      },
+      {
+        "message": "lattice-sponsor-pay:v1:/Nexus//child/:tx:",
+        "path": [
+          "",
+          "Nexus",
+          "",
+          "child",
+          ""
+        ]
+      },
+      {
+        "message": "lattice-sponsor-pay-serving:v1:/Nexus//child/:tx:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "path": [
+          "",
+          "Nexus",
+          "",
+          "child",
+          ""
+        ]
+      }
+    ],
+    "peers": [
+      {
+        "ok": null
+      },
+      {
+        "ok": null
+      },
+      {
+        "error": "draft",
+        "message": "peer is not 64 lowercase hex"
+      },
+      {
+        "error": "draft",
+        "message": "peer and store are exclusive"
+      },
+      {
+        "ok": null
+      },
+      {
+        "error": "draft",
+        "message": "peer and store are exclusive"
+      },
+      {
+        "ok": null
+      },
+      {
+        "error": "draft",
+        "message": "peer and store are exclusive"
+      },
+      {
+        "error": "draft",
+        "message": "peer is not 64 lowercase hex"
+      },
+      {
+        "error": "draft",
+        "message": "peer and store are exclusive"
+      },
+      {
+        "error": "draft",
+        "message": "peer is not 64 lowercase hex"
+      },
+      {
+        "error": "draft",
+        "message": "peer and store are exclusive"
+      },
+      {
+        "error": "draft",
+        "message": "peer is not 64 lowercase hex"
+      },
+      {
+        "error": "draft",
+        "message": "peer and store are exclusive"
+      },
+      {
+        "error": "draft",
+        "message": "peer is not 64 lowercase hex"
+      },
+      {
+        "error": "draft",
+        "message": "peer and store are exclusive"
+      }
+    ],
+    "serving": [
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 0
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 0
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 0
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 1
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 9223372036854775807
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 9223372036854775807
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 0
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 0
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 2
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 3
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 9223372036854775807
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 9223372036854775807
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 0
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 0
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 9223372036854775806
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 9223372036854775807
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 9223372036854775807
+      },
+      {
+        "error": "noServingRate"
+      },
+      {
+        "ok": 9223372036854775807
+      },
+      {
+        "error": "noServingRate"
+      }
+    ],
+    "storage": {
+      "budget": [
+        {
+          "ok": {
+            "bytes": 60,
+            "credit": 0,
+            "needed": {
+              "Nexus": 20,
+              "Nexus/child": 9
+            },
+            "root": "r",
+            "stored": false
+          }
+        },
+        {
+          "error": "overBudget"
+        },
+        {
+          "ok": {
+            "bytes": 40,
+            "credit": 0,
+            "needed": {
+              "Nexus": 14,
+              "Nexus/child": 6
+            },
+            "root": "other",
+            "stored": false
+          }
+        },
+        {
+          "error": "overBudget"
+        }
+      ],
+      "expiry": [
+        {
+          "ok": {
+            "bytes": 10,
+            "credit": 0,
+            "needed": {
+              "Nexus": 4,
+              "Nexus/child": 2
+            },
+            "root": "r",
+            "stored": false
+          }
+        },
+        {
+          "ok": null
+        },
+        {
+          "error": "unknownUpload"
+        },
+        {
+          "ok": {
+            "bytes": 10,
+            "credit": 0,
+            "needed": {
+              "Nexus": 4,
+              "Nexus/child": 2
+            },
+            "root": "other",
+            "stored": false
+          }
+        },
+        null,
+        {
+          "ok": {
+            "bytes": 10,
+            "credit": 0,
+            "needed": {
+              "Nexus": 4,
+              "Nexus/child": 2
+            },
+            "root": "r",
+            "stored": false
+          }
+        },
+        {
+          "ok": null
+        },
+        {
+          "ok": {
+            "bytes": 10,
+            "credit": 0,
+            "needed": {
+              "Nexus": 4,
+              "Nexus/child": 2
+            },
+            "root": "later",
+            "stored": false
+          }
+        },
+        {
+          "bytes": 10,
+          "credit": 12,
+          "needed": {
+            "Nexus": 0,
+            "Nexus/child": 0
+          },
+          "root": "r",
+          "stored": false
+        },
+        {
+          "error": "unknownUpload"
+        },
+        {
+          "bytes": 10,
+          "volumes": [
+            {
+              "bytes": 10,
+              "cid": "r"
+            }
+          ]
+        }
+      ],
+      "invalid": [
+        {
+          "error": "draft",
+          "message": "the root is not listed"
+        },
+        {
+          "error": "draft",
+          "message": "a Volume's entries lack its root"
+        },
+        {
+          "error": "draft",
+          "message": "entries are not base64"
+        },
+        {
+          "error": "draft",
+          "message": "a Volume without entries declares its bytes"
+        },
+        {
+          "error": "draft",
+          "message": "a Volume without entries declares its bytes"
+        },
+        {
+          "error": "draft",
+          "message": "a Volume is over 1 MiB and 1 KiB"
+        },
+        {
+          "ok": {
+            "bytes": 0,
+            "credit": 0,
+            "needed": {
+              "Nexus": 0,
+              "Nexus/child": 0
+            },
+            "root": "r",
+            "stored": false
+          }
+        },
+        {
+          "bytes": 0,
+          "credit": 0,
+          "needed": {
+            "Nexus": 0,
+            "Nexus/child": 0
+          },
+          "root": "r",
+          "stored": false
+        },
+        {
+          "bytes": 0,
+          "volumes": [
+            {
+              "cid": "r",
+              "entries": {
+                "r": ""
+              }
+            }
+          ]
+        }
+      ],
+      "lifecycle": [
+        {
+          "ok": {
+            "bytes": 10,
+            "credit": 0,
+            "needed": {
+              "Nexus": 4,
+              "Nexus/child": 2
+            },
+            "root": "r",
+            "stored": false
+          }
+        },
+        {
+          "bytes": 10,
+          "credit": 0,
+          "needed": {
+            "Nexus": 4,
+            "Nexus/child": 2
+          },
+          "root": "r",
+          "stored": false
+        },
+        null,
+        {
+          "ok": null
+        },
+        {
+          "bytes": 10,
+          "credit": 3,
+          "needed": {
+            "Nexus": 3,
+            "Nexus/child": 1
+          },
+          "root": "r",
+          "stored": false
+        },
+        {
+          "ok": null
+        },
+        {
+          "bytes": 10,
+          "volumes": [
+            {
+              "bytes": 10,
+              "cid": "r"
+            }
+          ]
+        },
+        null,
+        null,
+        {
+          "bytes": 10,
+          "volumes": [
+            {
+              "bytes": 10,
+              "cid": "r"
+            }
+          ]
+        },
+        null,
+        {
+          "bytes": 10,
+          "credit": 10,
+          "needed": {},
+          "root": "r",
+          "stored": true
+        },
+        null,
+        {
+          "bytes": 10,
+          "credit": 10,
+          "needed": {},
+          "root": "r",
+          "stored": true
+        },
+        {
+          "error": "draft",
+          "message": "root already uploaded"
+        }
+      ],
+      "pending-cap": [
+        {
+          "ok": {
+            "bytes": 30,
+            "credit": 0,
+            "needed": {
+              "Nexus": 10,
+              "Nexus/child": 5
+            },
+            "root": "r",
+            "stored": false
+          }
+        },
+        {
+          "error": "busy"
+        },
+        {
+          "ok": {
+            "bytes": 20,
+            "credit": 0,
+            "needed": {
+              "Nexus": 7,
+              "Nexus/child": 3
+            },
+            "root": "other",
+            "stored": false
+          }
+        }
+      ],
+      "rates": [
+        {
+          "ok": {
+            "bytes": 4,
+            "credit": 0,
+            "needed": {
+              "Nexus": 2,
+              "Nexus/child": 1
+            },
+            "root": "r",
+            "stored": false
+          }
+        },
+        {
+          "ok": null
+        },
+        {
+          "bytes": 4,
+          "credit": 1,
+          "needed": {
+            "Nexus": 1,
+            "Nexus/child": 1
+          },
+          "root": "r",
+          "stored": false
+        },
+        {
+          "ok": null
+        },
+        {
+          "bytes": 4,
+          "credit": 9223372036854775807,
+          "needed": {
+            "Nexus": 0,
+            "Nexus/child": 0
+          },
+          "root": "r",
+          "stored": false
+        },
+        {
+          "error": "noStorageRate"
+        },
+        {
+          "error": "noStorageRate"
+        }
+      ],
+      "restart-pending": [
+        {
+          "ok": {
+            "bytes": 10,
+            "credit": 0,
+            "needed": {
+              "Nexus": 4,
+              "Nexus/child": 2
+            },
+            "root": "r",
+            "stored": false
+          }
+        },
+        {
+          "ok": null
+        },
+        null,
+        null,
+        {
+          "ok": {
+            "bytes": 10,
+            "credit": 0,
+            "needed": {
+              "Nexus": 4,
+              "Nexus/child": 2
+            },
+            "root": "r",
+            "stored": false
+          }
+        }
+      ]
+    }
+  },
+  "traces": {
+    "capacity": [
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "alice",
+          "count": 8,
+          "expiresAt": 100,
+          "height": 1,
+          "id": "w.1",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x80000000000000000",
+          "startNonce": 0,
+          "store": null,
+          "workID": "w"
+        }
+      },
+      {
+        "error": "busy"
+      },
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "bob",
+          "count": 8,
+          "expiresAt": 200,
+          "height": 1,
+          "id": "new.2",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x80000000000000000",
+          "startNonce": 0,
+          "store": null,
+          "workID": "new"
+        }
+      },
+      null
+    ],
+    "commits": [
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "alice",
+          "count": 8,
+          "expiresAt": 100,
+          "height": 1,
+          "id": "w.1",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x80000000000000000",
+          "startNonce": 0,
+          "store": null,
+          "workID": "w"
+        }
+      },
+      {
+        "ok": "0x80000000000000000"
+      },
+      {
+        "error": "insufficientCredit"
+      },
+      {
+        "error": "insufficientFloat"
+      },
+      {
+        "ok": null
+      },
+      "0x40000000000000000",
+      {
+        "error": "insufficientFloat"
+      },
+      {
+        "ok": null
+      },
+      "0x0",
+      {
+        "ok": null
+      },
+      null,
+      "0x0"
+    ],
+    "credit-expiry": [
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "alice",
+          "count": 8,
+          "expiresAt": 1000,
+          "height": 1,
+          "id": "w.1",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x80000000000000000",
+          "startNonce": 0,
+          "store": null,
+          "workID": "w"
+        }
+      },
+      {
+        "ok": "0x80000000000000000"
+      },
+      "0x80000000000000000",
+      null,
+      "0x80000000000000000",
+      null,
+      "0x0"
+    ],
+    "external-credit": [
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "alice",
+          "count": 8,
+          "expiresAt": 100,
+          "height": 1,
+          "id": "w.1",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x80000000000000000",
+          "startNonce": 0,
+          "store": "root",
+          "workID": "w"
+        }
+      },
+      {
+        "ok": "0x80000000000000000"
+      },
+      "0x0",
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "alice",
+          "count": 8,
+          "expiresAt": 100,
+          "height": 2,
+          "id": "b.2",
+          "peer": "peer",
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x80000000000000000",
+          "startNonce": 0,
+          "store": null,
+          "workID": "b"
+        }
+      },
+      {
+        "ok": "0x80000000000000000"
+      },
+      "0x0"
+    ],
+    "missing-price": [
+      null,
+      {
+        "error": "unpriceable"
+      },
+      null,
+      null,
+      {
+        "error": "unpriceable"
+      },
+      null
+    ],
+    "order": [
+      {
+        "error": "unpriceable"
+      },
+      {
+        "error": "unknownAssignment"
+      },
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "alice",
+          "count": 8,
+          "expiresAt": 100,
+          "height": 1,
+          "id": "w.1",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0x7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x100000000000000000",
+          "startNonce": 0,
+          "store": null,
+          "workID": "w"
+        }
+      },
+      {
+        "error": "outsideRange"
+      },
+      {
+        "error": "missesShareTarget"
+      },
+      {
+        "ok": "0x80000000000000000"
+      },
+      "w",
+      null
+    ],
+    "partial": [
+      null,
+      {
+        "ok": {
+          "blockValue": "0xa0000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "alice",
+          "count": 8,
+          "expiresAt": 100,
+          "height": 1,
+          "id": "w.1",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x50000000000000000",
+          "startNonce": 0,
+          "store": null,
+          "workID": "w"
+        }
+      },
+      {
+        "ok": "0x50000000000000000"
+      },
+      {
+        "ok": "0x50000000000000000"
+      },
+      {
+        "error": "soldOut"
+      },
+      {
+        "error": "soldOut"
+      },
+      {
+        "error": "soldOut"
+      },
+      {
+        "error": "duplicateShare"
+      },
+      "0xa0000000000000000",
+      "0x1"
+    ],
+    "ranges": [
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "alice",
+          "count": 9223372036854775808,
+          "expiresAt": 100,
+          "height": 1,
+          "id": "w.1",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x80000000000000000",
+          "startNonce": 0,
+          "store": null,
+          "workID": "w"
+        }
+      },
+      {
+        "error": "busy"
+      },
+      {
+        "error": "busy"
+      },
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "dave",
+          "count": 9223372036854775808,
+          "expiresAt": 100,
+          "height": 2,
+          "id": "new.2",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x80000000000000000",
+          "startNonce": 0,
+          "store": null,
+          "workID": "new"
+        }
+      }
+    ],
+    "reorg": [
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "alice",
+          "count": 8,
+          "expiresAt": 20,
+          "height": 10,
+          "id": "high.1",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x80000000000000000",
+          "startNonce": 0,
+          "store": null,
+          "workID": "high"
+        }
+      },
+      null,
+      {
+        "error": "busy"
+      },
+      {
+        "ok": "0x80000000000000000"
+      },
+      null,
+      {
+        "error": "unpriceable"
+      },
+      {
+        "error": "expired"
+      },
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "bob",
+          "count": 8,
+          "expiresAt": 100,
+          "height": 9,
+          "id": "low.2",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x80000000000000000",
+          "startNonce": 0,
+          "store": null,
+          "workID": "low"
+        }
+      },
+      {
+        "error": "unknownAssignment"
+      }
+    ],
+    "repeat-template": [
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "alice",
+          "count": 8,
+          "expiresAt": 10,
+          "height": 1,
+          "id": "w.1",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x80000000000000000",
+          "startNonce": 0,
+          "store": null,
+          "workID": "w"
+        }
+      },
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "bob",
+          "count": 8,
+          "expiresAt": 100,
+          "height": 1,
+          "id": "w.2",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x80000000000000000",
+          "startNonce": 8,
+          "store": null,
+          "workID": "w"
+        }
+      },
+      {
+        "ok": "0x80000000000000000"
+      },
+      null,
+      null,
+      {
+        "error": "unknownAssignment"
+      },
+      {
+        "error": "soldOut"
+      }
+    ],
+    "sameheight": [
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "alice",
+          "count": 8,
+          "expiresAt": 100,
+          "height": 1,
+          "id": "w.1",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x80000000000000000",
+          "startNonce": 0,
+          "store": null,
+          "workID": "w"
+        }
+      },
+      {
+        "ok": "0x80000000000000000"
+      },
+      null,
+      {
+        "error": "soldOut"
+      },
+      null,
+      null,
+      {
+        "error": "soldOut"
+      },
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "bob",
+          "count": 8,
+          "expiresAt": 200,
+          "height": 2,
+          "id": "higher.2",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x80000000000000000",
+          "startNonce": 0,
+          "store": null,
+          "workID": "higher"
+        }
+      },
+      {
+        "ok": "0x80000000000000000"
+      },
+      "0x80000000000000000"
+    ],
+    "soldout": [
+      null,
+      {
+        "ok": {
+          "blockValue": "0x80000000000000000",
+          "chainPath": [
+            "Nexus"
+          ],
+          "client": "alice",
+          "count": 8,
+          "expiresAt": 100,
+          "height": 1,
+          "id": "w.1",
+          "peer": null,
+          "prefixHex": "00",
+          "shareTarget": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "shareValue": "0x80000000000000000",
+          "startNonce": 0,
+          "store": null,
+          "workID": "w"
+        }
+      },
+      {
+        "ok": "0x80000000000000000"
+      },
+      {
+        "error": "soldOut"
+      },
+      {
+        "error": "duplicateShare"
+      },
+      {
+        "error": "soldOut"
+      },
+      "w",
+      null,
+      "0x80000000000000000"
+    ]
+  }
+}

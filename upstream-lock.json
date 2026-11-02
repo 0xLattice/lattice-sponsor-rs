@@ -1,0 +1,10 @@
+{
+  "lattice-sponsor": "24d8c4def3bd47c45b4cd10115762894e5185ea5",
+  "source_sha256": {
+    "Sources/LatticeSponsorCore/SponsorLedger.swift": "b8c37d559bd46dbc95223c80f99114c09c326f3293025e8b1d9033911b9f64f5",
+    "Sources/LatticeSponsorCore/StorageCredit.swift": "61b017e9aa72004b18a4a2d94f2dc069306d25fd528a60dcfc3e19bf579d949d",
+    "Sources/LatticeSponsorCore/ServingCredit.swift": "4962542dbbab16758149187d0d01a67017ae07f5b80257dc4756e2e58da86c36",
+    "Sources/LatticeSponsorCore/CoinPayment.swift": "b5b34ad838cd81da9b72bd606d5d4518adce7a07946b097ca8b6246745651b40",
+    "Package.resolved": "1c30993bc93bf86e1f1b0f4e6f6e1a55e61eeccaca0a2f424817f9ab1d426fc8"
+  }
+}
