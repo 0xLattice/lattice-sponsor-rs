@@ -69,10 +69,10 @@ pub enum Refusal {
     #[error("alreadyCredited")]
     AlreadyCredited,
 }
+pub mod node;
 pub mod payment;
 pub mod serving;
 pub mod storage;
-pub mod node;
 
 pub mod service;
 
